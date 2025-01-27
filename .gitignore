@@ -1,0 +1,33 @@
+# Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Build and distribution directories
+build/
+dist/
+
+# Virtual environments
+venv/
+.env/
+
+# PyInstaller files
+*.spec
+*.toc
+*.pkg
+*.log
+*.zip
+*.html
+
+# IDE settings
+.vscode/
+.vs/
+
+# Windows-specific temporary files
+Thumbs.db
+Desktop.ini
+
+# Miscellaneous
+*.bak
+*.tmp
+.DS_Store
